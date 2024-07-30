@@ -5,9 +5,6 @@ Here's a fun little exploration into predictive modeling using some Crypto data:
 
 While I still don't know how to make $$ with this knowledge, it has been enlightening to see just how <a href='https://en.wikipedia.org/wiki/Principal_component_analysis'>Principal Component Analysis</a> can expedite and more distinctly interpret datasets. 
 
-As always, a great thanks to the nice folks at 
-<a href='https://code.visualstudio.com/docs/editor/intellisense'> 
-VS Code's IntelliSense</a> for scraping my school repo and, of course, 
-<a href='https://www.blackbox.ai/'>Blackbox AI</a>,
+As always, a great thanks to the nice folks at <a href='https://www.blackbox.ai/'>Blackbox AI</a> for understanding these concepts far better than me. 
 
 
